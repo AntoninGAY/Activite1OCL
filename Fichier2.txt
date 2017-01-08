@@ -1,0 +1,5 @@
+Et voilà le second fichier, toujours aussi vide !
+
+while(1){
+	println("Infinite Loop :D !!!");
+}
